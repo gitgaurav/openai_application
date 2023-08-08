@@ -1,4 +1,4 @@
-# openai-API
+# openai-application
 Django application that integrates with the OpenAI API to generate natural language responses to user inputs. The application is designed to work with both Telegram and web browsers, allowing users to interact with it in whichever way is most convenient for them.
 
 ![telegram-cloud-document-2-5436324961939630234](https://user-images.githubusercontent.com/109435929/219484501-5df534fe-9af5-49d1-b30f-e241853a68ad.jpg)
